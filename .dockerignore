@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+docs/
+README.md
+docker-compose.yml
+Makefile
